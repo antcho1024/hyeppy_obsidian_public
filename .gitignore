@@ -1,0 +1,15 @@
+.obsidian/
+
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/app.json
+
+.trash/
+.DS_Store
+
+### 왜생기는지 모르겠음 6/19 추가
+*.mdc
+*.mdb
+.space/context.mdb
+.makemd/fileCache.mdc
+.makemd/superstate.mdc
