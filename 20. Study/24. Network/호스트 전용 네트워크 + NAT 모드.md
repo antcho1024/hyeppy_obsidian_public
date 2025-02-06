@@ -17,3 +17,8 @@
 [root@testIP network-scripts]# ls
 ifcfg-enp0s3
 ```
+
+
+![[image.png]]
+
+![[image-1.png]]
